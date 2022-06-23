@@ -1,1 +1,3 @@
-# emacs-sideline.github.io
+# emacs-sideline
+
+Show information on the side
